@@ -1,0 +1,55 @@
+.App {
+  background-image: url('./stadium1.jpg');
+  position:absolute;
+  height: 100%;
+  width:100%;
+}
+
+.pollDiv { 
+  margin: 5% 0 0 0;
+  height: 70%; 
+  display: block; 
+  text-align: -webkit-center
+}
+
+.pollSport {
+  position: relative;
+  float: left;
+  top: 50%;
+  left: 50%;
+  word-wrap: break-word;
+  transform: translate(-50%, -50%)
+}
+
+.pollHeader {
+  text-align: center;
+  font-family: none;
+  font-weight: bold;
+}
+.pollGroup {
+  font-size: 25px;
+}
+
+.pollCountry {
+  font-size: 15px;
+  margin:2%
+}
+
+.pollTeam {
+  position: relative;
+  float: left;
+  top: 50%;
+  left: 50%;
+  font-family: monospace;
+  transform: translate(-50%, -50%)
+}
+.pollHome {
+  background: linear-gradient(45deg, orange, transparent);
+}
+
+.pollVs {
+  background: linear-gradient(45deg, black, transparent);
+}
+.pollAway {
+  background: linear-gradient(45deg, green, transparent);
+}
