@@ -1,5 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 Steps to use the application: 
 
 You need to have nodejs installed in your system before following the steps below.
