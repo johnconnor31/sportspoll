@@ -1,0 +1,14 @@
+{
+"homePaper": {
+    "width": "40%",
+    "height": "50%",
+    "display": "inline-block",
+    "fontWeight": "bold"
+},
+"vsDiv": {
+    "width": "20%",
+    "display": "inline-block",
+    "fontWeight": "bold",
+    "height": "50%"
+}
+}

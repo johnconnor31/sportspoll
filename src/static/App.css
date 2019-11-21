@@ -53,3 +53,13 @@
 .pollAway {
   background: linear-gradient(45deg, green, transparent);
 }
+.pollHistory {
+  color: coral;
+  margin: 2%;
+}
+.historyVote {
+  display: inline;
+  color: blueviolet;
+  margin: .5%;
+  font-size: large;
+}
