@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.580c1363.chunk.css",
-    "main.js": "/static/js/main.c626f57b.chunk.js",
-    "main.js.map": "/static/js/main.c626f57b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.76bff12c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.76bff12c.js.map",
-    "static/js/2.d117596f.chunk.js": "/static/js/2.d117596f.chunk.js",
-    "static/js/2.d117596f.chunk.js.map": "/static/js/2.d117596f.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.4946172cc54abe8862a02cd628dec104.js": "/precache-manifest.4946172cc54abe8862a02cd628dec104.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.580c1363.chunk.css.map": "/static/css/main.580c1363.chunk.css.map",
-    "static/media/App.css": "/static/media/stadium1.ba9d75a6.jpg"
+    "main.css": "/sportspoll/static/css/main.f464fc23.chunk.css",
+    "main.js": "/sportspoll/static/js/main.c36744a2.chunk.js",
+    "main.js.map": "/sportspoll/static/js/main.c36744a2.chunk.js.map",
+    "runtime-main.js": "/sportspoll/static/js/runtime-main.23452119.js",
+    "runtime-main.js.map": "/sportspoll/static/js/runtime-main.23452119.js.map",
+    "static/js/2.d117596f.chunk.js": "/sportspoll/static/js/2.d117596f.chunk.js",
+    "static/js/2.d117596f.chunk.js.map": "/sportspoll/static/js/2.d117596f.chunk.js.map",
+    "index.html": "/sportspoll/index.html",
+    "precache-manifest.c699dda917a41c4b0bfb1e87f98b9aca.js": "/sportspoll/precache-manifest.c699dda917a41c4b0bfb1e87f98b9aca.js",
+    "service-worker.js": "/sportspoll/service-worker.js",
+    "static/css/main.f464fc23.chunk.css.map": "/sportspoll/static/css/main.f464fc23.chunk.css.map",
+    "static/media/App.css": "/sportspoll/static/media/stadium1.ba9d75a6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.76bff12c.js",
+    "static/js/runtime-main.23452119.js",
     "static/js/2.d117596f.chunk.js",
-    "static/css/main.580c1363.chunk.css",
-    "static/js/main.c626f57b.chunk.js"
+    "static/css/main.f464fc23.chunk.css",
+    "static/js/main.c36744a2.chunk.js"
   ]
 }
